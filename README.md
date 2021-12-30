@@ -15,4 +15,4 @@
 ## Gra kończy się, gdy wszystkie wieże zostaną zniszczone.
 
 
-### Działającą gre można pobrać ze strony: https://github.com/Janeeczek/Foto_Budka_Modeli/releases/tag/1.0.0
+### Działającą gre można pobrać ze strony: https://github.com/Janeeczek/TicTacMissileCommand/releases/tag/1.0.0
